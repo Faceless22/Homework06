@@ -1,0 +1,54 @@
+.t1{
+  border: 2px solid black;
+  border-collapse: collapse;
+  outline: 1px solid black;
+  outline-offset: 2px;
+  margin: 50px;
+}
+.t1 caption{
+  background: yellow;
+}
+.t1 td.lol{
+  border-right-color: transparent;
+  vertical-align: top;
+  width: 130px;
+  padding-left: 8px;
+}
+.t1 td.lol.qwe{
+  border-bottom-color: transparent;
+}
+.t1 td.bnm{
+  vertical-align: bottom;
+  text-align: center;
+  padding-bottom: 5px;
+}
+.t1 td.zxc{
+  width: 180px;
+  padding: 5px;
+}
+.t1 td.zxc.vb{
+  text-align: right;
+  padding-right: 7px;
+  width: 95px;
+}
+.t1 td.asd{
+  border-bottom-color: transparent;
+}
+.t1 td.asd.fg{
+  text-align: right;
+  padding-right: 7px;
+  padding-top: 3px; 
+}
+.t1 td{
+  border: 1px solid black;
+}
+.dir{
+  padding: 4px;
+  border: 1px solid black;
+  text-align: center;
+}
+
+
+
+
+
